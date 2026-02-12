@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="center">I'm a Data Analyst</h2>
+<h2 align="center">I'm a AI Engineer</h2>
 
 ###
 
